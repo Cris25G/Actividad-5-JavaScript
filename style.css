@@ -1,0 +1,17 @@
+body {
+    background: rgb(234, 240, 158);
+}
+
+body noscript h1 {
+    color: red;
+    text-align: center;
+}
+
+.encabezado{
+    text-align: end;
+}
+
+#titulo {     
+    text-align: center;
+    color: rgb(139, 85, 238);
+}
